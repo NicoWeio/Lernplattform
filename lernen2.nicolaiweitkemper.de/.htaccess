@@ -1,4 +1,5 @@
 # für https-Anfragen von http
-Header add Access-Control-Allow-Origin "http://lernen.nicolaiweitkemper.de"
-Header add Access-Control-Allow-Headers "origin, x-requested-with, content-type"
-Header add Access-Control-Allow-Methods "PUT, GET, POST, DELETE, OPTIONS"
+# TODO: macht die Anfragen an vok-new-smart kaputt :(
+# Header add Access-Control-Allow-Origin "http://lernen2.nicolaiweitkemper.de"
+# Header add Access-Control-Allow-Headers "origin, x-requested-with, content-type"
+# Header add Access-Control-Allow-Methods "PUT, GET, POST, DELETE, OPTIONS"
