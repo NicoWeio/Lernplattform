@@ -1,0 +1,139 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <title>Kurs und Lektion wählen</title>
+
+  <link rel="stylesheet" href="style.css">
+
+
+  <script src="../server.js" type="text/javascript"></script>
+  <script type="text/javascript">
+  
+    function loadLevels() {
+      
+      var selectbox = document.getElementById("level-select");
+      
+     /*for(var i = selectbox.options.length - 1 ; i >= 0 ; i--)
+        {
+          selectbox.remove(i);
+        }*/
+            
+      document.getElementById("level-select").innerHTML = "";
+      
+      
+      
+      
+      var course = document.getElementById("course-select").value;
+      
+      
+          httpGet("https://lernen2.nicolaiweitkemper.de/Backend/levels-get.php?course="+course,
+           function(result) { 
+      
+            var levels = JSON.parse(result);
+            
+            
+            var select = document.getElementById("level-select");
+            
+            var customSort = function (a, b) {
+              return (Number(a.match(/(\d+)/g)[0]) - Number((b.match(/(\d+)/g)[0])));
+            }
+            
+            levels.sort(customSort);
+            
+            levels.forEach(function(single) {
+              
+              var option = document.createElement("option");
+              option.text = single;
+              select.add(option);
+              
+            });
+            
+            document.getElementById("level-select").disabled = false;
+            
+
+            
+    
+    });
+    }
+    
+    function loadCourses() {
+      
+      var selectbox = document.getElementById("course-select");
+      
+     /*for(var i = selectbox.options.length - 1 ; i >= 0 ; i--)
+        {
+          selectbox.remove(i);
+        }*/
+            
+      document.getElementById("course-select").innerHTML = "";
+      
+      
+      
+      
+          httpGet("https://lernen2.nicolaiweitkemper.de/Backend/courses-get.php",
+           function(result) { 
+      
+            var courses = JSON.parse(result);
+            
+            
+            var select = document.getElementById("course-select");
+            
+            /*var customSort = function (a, b) {
+              return (Number(a.match(/(\d+)/g)[0]) - Number((b.match(/(\d+)/g)[0])));
+            }
+            
+            courses.sort(customSort);*/
+            
+            courses.forEach(function(single) {
+              
+              var option = document.createElement("option");
+              option.value = single["id"];
+              option.text = single["title"];
+              select.add(option);
+              
+            });
+            
+            document.getElementById("course-select").disabled = false;
+            
+            loadLevels();
+      
+        });
+    }
+    
+  </script>
+
+
+
+
+
+
+
+
+
+</head>
+  
+<body onload="loadCourses()">
+
+  <form action="../">
+    <div id="options-container">
+      <div class="option">
+        <p>Kurs: </p>
+        <select name="course" id="course-select" onchange="loadLevels()" disabled>
+    <option>Lade...</option>
+      </select>
+      </div>
+      <div class="option">
+        <p>Level: </p>
+        <select id="level-select" name="level" disabled>
+        <option>Lade...</option>
+        </select>
+      </div>
+      <div class="option"><input type="submit" value="Öffnen"></div>
+    </div>
+  </form>
+
+</body>
+
+</html>

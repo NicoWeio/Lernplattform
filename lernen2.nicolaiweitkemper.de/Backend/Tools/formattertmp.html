@@ -1,0 +1,80 @@
+<!DOCTYPE HTML>
+<body>
+  <input type="text" id="input">
+  <button onclick="doIt()">
+    Kacken!
+  </button>
+    <button onclick="out()">
+    Kasdsadacken!
+  </button>
+  
+  <a href="#" id="link" download="spa2.json">
+    Download as JSON
+</a>
+  
+  <script type="text/javascript">
+    
+    var json;
+    
+    function out() {
+      
+       var txtFile = "test.txt";
+ var file = new File(txtFile);
+ var str = JSON.stringify(json);
+
+ //Save the file contents as a DataURI
+ var dataUri = 'data:application/json;charset=utf-8,'+ encodeURIComponent(str);
+
+ //Write it as the href for the link
+ var link = document.getElementById('link').href = dataUri;
+      
+      
+      
+    }
+    
+    var output = [];
+  
+    function doIt() {
+    var input = document.getElementById("input").value;
+    
+    json = JSON.parse(input);
+    
+    
+    json.forEach(function(single) {
+      
+      var array = output[single.title];
+      
+      /*if ( === null) {
+        
+        var spa = single.spa;
+        var deu = single.deu;
+        
+        
+        title = [spa, deu];
+        
+      }
+      
+      else {
+        var array = single.title;
+        array.push()
+      }*/
+      
+        var spa = single.spa;
+        var deu = single.deu;
+      
+      array.push([spa, deu]);
+      
+    });
+      
+       //Get the file contents
+
+    
+    }
+    
+    //input =
+    //document.getElementById("input").value = JSON.stringify(json);
+    
+  
+  </script>
+  
+</body>

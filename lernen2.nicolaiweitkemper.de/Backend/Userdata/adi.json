@@ -1,0 +1,617 @@
+{
+  "data": {
+    "englisch-1": {
+      "1 Unit 1 Check-In": {
+        "American": {
+          "lauf": 2, 
+          "phase": 2, 
+          "successful": 1, 
+          "total": 1
+        }, 
+        "athletics": {
+          "errors": {
+            "atlethics": 1
+          }, 
+          "lauf": 2, 
+          "phase": 2, 
+          "successful": 5, 
+          "total": 6
+        }, 
+        "base": {
+          "lauf": 2, 
+          "phase": 2, 
+          "successful": 1, 
+          "total": 1
+        }, 
+        "baseball": {
+          "lauf": 2, 
+          "phase": 2, 
+          "successful": 1, 
+          "total": 1
+        }, 
+        "bat": {
+          "lauf": 2, 
+          "phase": 2, 
+          "successful": 1, 
+          "total": 1
+        }, 
+        "brake": {
+          "lauf": 3, 
+          "phase": 2, 
+          "successful": 4, 
+          "total": 4
+        }, 
+        "court": {
+          "errors": {
+            "cougth": 1, 
+            "field": 3
+          }, 
+          "lauf": 2, 
+          "phase": 1, 
+          "successful": 7, 
+          "total": 11
+        }, 
+        "cricket": {
+          "lauf": 2, 
+          "phase": 2, 
+          "successful": 1, 
+          "total": 1
+        }, 
+        "field": {
+          "lauf": 2, 
+          "phase": 2, 
+          "successful": 1, 
+          "total": 1
+        }, 
+        "helmet": {
+          "lauf": 3, 
+          "phase": 2, 
+          "successful": 4, 
+          "total": 4
+        }, 
+        "ice": {
+          "lauf": 2, 
+          "phase": 2, 
+          "successful": 1, 
+          "total": 1
+        }, 
+        "ice hockey": {
+          "lauf": 2, 
+          "phase": 2, 
+          "successful": 1, 
+          "total": 1
+        }, 
+        "oval": {
+          "lauf": 2, 
+          "phase": 2, 
+          "successful": 1, 
+          "total": 1
+        }, 
+        "pitch": {
+          "lauf": 2, 
+          "phase": 2, 
+          "successful": 1, 
+          "total": 1
+        }, 
+        "race": {
+          "lauf": 3, 
+          "phase": 2, 
+          "successful": 4, 
+          "total": 4
+        }, 
+        "racket": {
+          "lauf": 2, 
+          "phase": 2, 
+          "successful": 1, 
+          "total": 1
+        }, 
+        "referee": {
+          "lauf": 2, 
+          "phase": 1, 
+          "successful": 3, 
+          "total": 3
+        }, 
+        "rugby": {
+          "lauf": 2, 
+          "phase": 2, 
+          "successful": 1, 
+          "total": 1
+        }, 
+        "skateboarding": {
+          "lauf": 2, 
+          "phase": 1, 
+          "successful": 3, 
+          "total": 3
+        }, 
+        "stick": {
+          "lauf": 2, 
+          "phase": 2, 
+          "successful": 1, 
+          "total": 1
+        }, 
+        "to control": {
+          "errors": {
+            "tio control": 1, 
+            "to controwl": 1
+          }, 
+          "lauf": 3, 
+          "phase": 1, 
+          "successful": 5, 
+          "total": 7
+        }, 
+        "to go on": {
+          "lauf": 2, 
+          "phase": 2, 
+          "successful": 1, 
+          "total": 1
+        }, 
+        "track": {
+          "lauf": 2, 
+          "phase": 2, 
+          "successful": 1, 
+          "total": 1
+        }, 
+        "umpire": {
+          "lauf": 3, 
+          "phase": 2, 
+          "successful": 4, 
+          "total": 4
+        }
+      }, 
+      "10 Unit 2 Skills: Reading skills - A historical story": {
+        "close": {
+          "lauf": 7, 
+          "phase": 7, 
+          "successful": 6, 
+          "total": 6
+        }, 
+        "connecting line": {
+          "lauf": 8, 
+          "phase": 8, 
+          "successful": 7, 
+          "total": 7
+        }, 
+        "detail": {
+          "lauf": 4, 
+          "phase": 4, 
+          "successful": 3, 
+          "total": 3
+        }, 
+        "gist": {
+          "lauf": 3, 
+          "phase": 3, 
+          "successful": 2, 
+          "total": 2
+        }, 
+        "pre-reading": {
+          "errors": {
+            "\"\"": 1
+          }, 
+          "lauf": 0, 
+          "phase": -2, 
+          "successful": 1, 
+          "total": 2
+        }, 
+        "to be about": {
+          "lauf": 2, 
+          "phase": 2, 
+          "successful": 1, 
+          "total": 1
+        }, 
+        "to be connected": {
+          "lauf": 0, 
+          "phase": -1, 
+          "successful": 1, 
+          "total": 1
+        }, 
+        "to get ready": {
+          "lauf": 5, 
+          "phase": 5, 
+          "successful": 4, 
+          "total": 4
+        }
+      }, 
+      "11 Unit 2 Text: The diary": {
+        "to feed": {
+          "lauf": 0, 
+          "phase": -1, 
+          "successful": 1, 
+          "total": 1
+        }
+      }, 
+      "13 Unit 3 Language 1: Sunday lunch": {
+        "to enjoy oneself": {
+          "lauf": 0, 
+          "phase": -1, 
+          "successful": 1, 
+          "total": 1
+        }, 
+        "yourself": {
+          "lauf": 0, 
+          "phase": -1, 
+          "successful": 1, 
+          "total": 1
+        }
+      }, 
+      "14 Unit 3 Box: Watch out - No reflexive pronoun in EN": {
+        "to hide": {
+          "lauf": 2, 
+          "phase": 2, 
+          "successful": 1, 
+          "total": 1
+        }, 
+        "to remember sth": {
+          "lauf": 0, 
+          "phase": -1, 
+          "successful": 1, 
+          "total": 1
+        }
+      }, 
+      "16 Unit 3 Language 2: Chatroom messages": {
+        "advice": {
+          "lauf": 0, 
+          "phase": -1, 
+          "successful": 1, 
+          "total": 1
+        }, 
+        "comma": {
+          "lauf": 0, 
+          "phase": -1, 
+          "successful": 1, 
+          "total": 1
+        }, 
+        "difficult": {
+          "lauf": 0, 
+          "phase": -1, 
+          "successful": 1, 
+          "total": 1
+        }, 
+        "especially": {
+          "lauf": 0, 
+          "phase": -1, 
+          "successful": 1, 
+          "total": 1
+        }, 
+        "jealous": {
+          "lauf": 0, 
+          "phase": -1, 
+          "successful": 1, 
+          "total": 1
+        }, 
+        "junk": {
+          "errors": {
+            "\"\"": 2
+          }, 
+          "lauf": 0, 
+          "phase": 4, 
+          "successful": 5, 
+          "total": 7
+        }, 
+        "on chat": {
+          "lauf": 0, 
+          "phase": -1, 
+          "successful": 1, 
+          "total": 1
+        }, 
+        "probably": {
+          "lauf": 0, 
+          "phase": -1, 
+          "successful": 1, 
+          "total": 1
+        }, 
+        "purse": {
+          "lauf": 0, 
+          "phase": -1, 
+          "successful": 1, 
+          "total": 1
+        }, 
+        "to chat": {
+          "lauf": 0, 
+          "phase": -1, 
+          "successful": 1, 
+          "total": 1
+        }, 
+        "to get rid of": {
+          "lauf": 0, 
+          "phase": -1, 
+          "successful": 1, 
+          "total": 1
+        }, 
+        "to translate": {
+          "lauf": 0, 
+          "phase": -1, 
+          "successful": 1, 
+          "total": 1
+        }, 
+        "to turn into": {
+          "errors": {
+            "\"\"": 23
+          }, 
+          "lauf": 0, 
+          "phase": -24, 
+          "successful": 1, 
+          "total": 24
+        }, 
+        "to wish": {
+          "errors": {
+            "\"\"": 24
+          }, 
+          "lauf": 0, 
+          "phase": -25, 
+          "successful": 1, 
+          "total": 25
+        }, 
+        "type": {
+          "lauf": 3, 
+          "phase": 3, 
+          "successful": 2, 
+          "total": 2
+        }, 
+        "wish": {
+          "lauf": 0, 
+          "phase": -1, 
+          "successful": 1, 
+          "total": 1
+        }
+      }, 
+      "33 Unit 6 Check-in": {
+        "challenge": {
+          "lauf": 0, 
+          "phase": -1, 
+          "successful": 1, 
+          "total": 1
+        }, 
+        "evolution": {
+          "errors": {
+            "\"\"": 1, 
+            "evoltion": 1
+          }, 
+          "lauf": 3, 
+          "phase": 7, 
+          "successful": 8, 
+          "total": 10
+        }, 
+        "first language": {
+          "lauf": 0, 
+          "phase": -1, 
+          "successful": 1, 
+          "total": 1
+        }, 
+        "giant": {
+          "errors": {
+            "\"\"": 1
+          }, 
+          "lauf": 0, 
+          "phase": -2, 
+          "successful": 1, 
+          "total": 2
+        }, 
+        "journey": {
+          "errors": {
+            "\"\"": 1
+          }, 
+          "lauf": 0, 
+          "phase": -2, 
+          "successful": 1, 
+          "total": 2
+        }, 
+        "leap": {
+          "errors": {
+            "\"\"": 3, 
+            "d": 1, 
+            "dl": 1, 
+            "jump": 3, 
+            "juummp": 1
+          }, 
+          "lauf": 1, 
+          "phase": -6, 
+          "successful": 2, 
+          "total": 11
+        }, 
+        "mankind": {
+          "lauf": 0, 
+          "phase": -1, 
+          "successful": 1, 
+          "total": 1
+        }, 
+        "missionary": {
+          "lauf": 0, 
+          "phase": -1, 
+          "successful": 1, 
+          "total": 1
+        }, 
+        "moon": {
+          "errors": {
+            "mod": 1, 
+            "moond": 1
+          }, 
+          "lauf": 1, 
+          "phase": -2, 
+          "successful": 2, 
+          "total": 4
+        }, 
+        "noodle": {
+          "lauf": 0, 
+          "phase": -1, 
+          "successful": 1, 
+          "total": 1
+        }, 
+        "per cent": {
+          "errors": {
+            "\"\"": 2, 
+            "percent": 2, 
+            "procent": 2, 
+            "prozent": 1
+          }, 
+          "lauf": 3, 
+          "phase": -2, 
+          "successful": 4, 
+          "total": 11
+        }, 
+        "plant": {
+          "lauf": 0, 
+          "phase": -1, 
+          "successful": 1, 
+          "total": 1
+        }, 
+        "step": {
+          "lauf": 0, 
+          "phase": -1, 
+          "successful": 1, 
+          "total": 1
+        }, 
+        "to take": {
+          "lauf": 0, 
+          "phase": -1, 
+          "successful": 1, 
+          "total": 1
+        }, 
+        "traveller": {
+          "errors": {
+            "\"\"": 8, 
+            "jurny": 1, 
+            "traveler": 2, 
+            "travveler": 2, 
+            "trevaller": 1
+          }, 
+          "lauf": 1, 
+          "phase": -12, 
+          "successful": 4, 
+          "total": 18
+        }
+      }, 
+      "38 Unit 6 Text: My big adventure": {
+        "scream": {
+          "errors": {
+            "\"\"": 1
+          }, 
+          "lauf": 0, 
+          "phase": -2, 
+          "successful": 1, 
+          "total": 2
+        }
+      }, 
+      "5 Unit 1 Text: Eddie the Eagle": {
+        "at last": {
+          "lauf": 0, 
+          "phase": -1, 
+          "successful": 1, 
+          "total": 1
+        }, 
+        "eagle": {
+          "lauf": 1, 
+          "phase": 0, 
+          "successful": 2, 
+          "total": 2
+        }, 
+        "might": {
+          "lauf": 0, 
+          "phase": -1, 
+          "successful": 1, 
+          "total": 1
+        }, 
+        "press conference": {
+          "errors": {
+            "\"\"": 1
+          }, 
+          "lauf": 0, 
+          "phase": -2, 
+          "successful": 1, 
+          "total": 2
+        }, 
+        "ski jump": {
+          "errors": {
+            "\"\"": 1
+          }, 
+          "lauf": 0, 
+          "phase": -2, 
+          "successful": 1, 
+          "total": 2
+        }, 
+        "slid": {
+          "lauf": 0, 
+          "phase": -1, 
+          "successful": 1, 
+          "total": 1
+        }, 
+        "to wave": {
+          "lauf": 0, 
+          "phase": -1, 
+          "successful": 1, 
+          "total": 1
+        }
+      }, 
+      "6 Unit 2 Check-In": {
+        "Once upon a time": {
+          "lauf": 0, 
+          "phase": -1, 
+          "successful": 1, 
+          "total": 1
+        }, 
+        "Saxon": {
+          "lauf": 2, 
+          "phase": 2, 
+          "successful": 1, 
+          "total": 1
+        }
+      }, 
+      "7 Unit 2 Language 1: Visit the World Stage": {
+        "dress": {
+          "lauf": 0, 
+          "phase": -1, 
+          "successful": 1, 
+          "total": 1
+        }
+      }
+    }
+  }, 
+  "login": {
+    "name": "adi", 
+    "password": "kacken"
+  }, 
+  "preferences": {
+    "checkSettings": {
+      "brackets": "ignore", 
+      "case": "ignore", 
+      "customReplacements": {
+        "\u00a1": "!", 
+        "\u00bf": "?"
+      }, 
+      "customReplacementsRegEx": {
+        "(\\s|)\\[\\.\\.\\.\\](\\s|)": " ", 
+        "/^(el|la|los|las)\\s/ig": "", 
+        "\\/-a\\s+": "", 
+        "\\/la\\s+": ""
+      }, 
+      "specialChars": ""
+    }, 
+    "clientSettings": {
+      "afterWrongInput": "smart", 
+      "revealPart": {
+        "tolerate": {
+          "accents": true, 
+          "case": true, 
+          "custom": [
+            "?", 
+            "!", 
+            "\u00e1", 
+            "\u00f3", 
+            "\u00fa", 
+            "\u00ed"
+          ]
+        }
+      }, 
+      "tts": {
+        "afterCorrectInput": true, 
+        "afterReveal": true, 
+        "customReplacementsRegEx": {
+          "(\\s|)\\[\\.\\.\\.\\](\\s|)": " ", 
+          "/^(el|la|los|las)\\s/ig": "", 
+          "\\/-a": "", 
+          "\\/la": ""
+        }
+      }
+    }
+  }
+}
+

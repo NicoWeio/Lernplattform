@@ -1,0 +1,1473 @@
+{
+  "meta": {
+    "language": "spa",
+    "tts-language": "es",
+    "title": "Spanisch Q1"
+  },
+  "data": {
+    "3 el turismo 2": [{
+      "spa": "el ingreso",
+      "ger": "die Einnahme",
+      "level": "3 el turismo 2"
+    }, {
+      "spa": "mero",
+      "ger": "blo\u00df, rein",
+      "level": "3 el turismo 2"
+    }, {
+      "spa": "generar",
+      "ger": "generieren, einbringen",
+      "level": "3 el turismo 2"
+    }, {
+      "spa": "el jard\u00edn",
+      "ger": "der Garten",
+      "level": "3 el turismo 2"
+    }, {
+      "spa": "la aventura",
+      "ger": "das Abenteuer",
+      "level": "3 el turismo 2"
+    }, {
+      "spa": "representar",
+      "ger": "hier: ein Indiz sein f\u00fcr (sonst: repr\u00e4sentieren)",
+      "level": "3 el turismo 2"
+    }, {
+      "spa": "el monumento",
+      "ger": "die Sehensw\u00fcrdigkeit",
+      "level": "3 el turismo 2"
+    }, {
+      "spa": "conocer (c > zc)",
+      "ger": "kennen, kennenlernen",
+      "level": "3 el turismo 2"
+    }, {
+      "spa": "el recurso",
+      "ger": "die Ressource",
+      "level": "3 el turismo 2"
+    }, {
+      "spa": "el buceo",
+      "ger": "das Tauchen",
+      "level": "3 el turismo 2"
+    }, {
+      "spa": "el patrimonio",
+      "ger": "das Kulturerbe",
+      "level": "3 el turismo 2"
+    }, {
+      "spa": "el esqu\u00ed",
+      "ger": "der Skisport",
+      "level": "3 el turismo 2"
+    }, {
+      "spa": "el lugar",
+      "ger": "der Ort",
+      "level": "3 el turismo 2"
+    }, {
+      "spa": "el espectador",
+      "ger": "der Zuschauer",
+      "level": "3 el turismo 2"
+    }, {
+      "spa": "cuyo\/-a",
+      "ger": "Relativpronomen: deren, dessen",
+      "level": "3 el turismo 2"
+    }, {
+      "spa": "costoso\/-a",
+      "ger": "aufw\u00e4ndig (im Sinne von \u201ekostenreich\u201c)",
+      "level": "3 el turismo 2"
+    }, {
+      "spa": "la inversi\u00f3n",
+      "ger": "die Investition",
+      "level": "3 el turismo 2"
+    }, {
+      "spa": "la llegada",
+      "ger": "die Ankunft",
+      "level": "3 el turismo 2"
+    }, {
+      "spa": "encontrarse (o>ue)",
+      "ger": "sich befinden",
+      "level": "3 el turismo 2"
+    }, {
+      "spa": "dedicar",
+      "ger": "widmen",
+      "level": "3 el turismo 2"
+    }, {
+      "spa": "el riesgo",
+      "ger": "das Risiko",
+      "level": "3 el turismo 2"
+    }, {
+      "spa": "precisar",
+      "ger": "n\u00f6tig haben, konkretisieren",
+      "level": "3 el turismo 2"
+    }, {
+      "spa": "la nieve",
+      "ger": "der Schnee",
+      "level": "3 el turismo 2"
+    }, {
+      "spa": "el deterioro",
+      "ger": "der Verfall",
+      "level": "3 el turismo 2"
+    }, {
+      "spa": "el centro",
+      "ger": "die Stadtmitte",
+      "level": "3 el turismo 2"
+    }, {
+      "spa": "cierto\/-a",
+      "ger": "bestimmt \/-e",
+      "level": "3 el turismo 2"
+    }, {
+      "spa": "el campo",
+      "ger": "hier: der Platz",
+      "level": "3 el turismo 2"
+    }, {
+      "spa": "poseer",
+      "ger": "besitzen",
+      "level": "3 el turismo 2"
+    }, {
+      "spa": "el puenting",
+      "ger": "das Bungee-Jumping",
+      "level": "3 el turismo 2"
+    }, {
+      "spa": "urbano\/-a",
+      "ger": "st\u00e4dtisch, Stadt-",
+      "level": "3 el turismo 2"
+    }, {
+      "spa": "participar",
+      "ger": "teilnehmen",
+      "level": "3 el turismo 2"
+    }, {
+      "spa": "el\/la visitante",
+      "ger": "der Besucher, die Besucherin",
+      "level": "3 el turismo 2"
+    }, {
+      "spa": "sino",
+      "ger": "sondern",
+      "level": "3 el turismo 2"
+    }, {
+      "spa": "el espect\u00e1culo",
+      "ger": "die Show",
+      "level": "3 el turismo 2"
+    }, {
+      "spa": "el paracaidismo",
+      "ger": "das Fallschirmspringen",
+      "level": "3 el turismo 2"
+    }, {
+      "spa": "principal",
+      "ger": "Haupt-",
+      "level": "3 el turismo 2"
+    }, {
+      "spa": "denominar",
+      "ger": "benennen",
+      "level": "3 el turismo 2"
+    }, {
+      "spa": "n\u00e1utico\/-a",
+      "ger": "Wasser-",
+      "level": "3 el turismo 2"
+    }, {
+      "spa": "el puerto",
+      "ger": "der Hafen",
+      "level": "3 el turismo 2"
+    }, {
+      "spa": "la navegaci\u00f3n a vela",
+      "ger": "das Segeln",
+      "level": "3 el turismo 2"
+    }, {
+      "spa": "desear",
+      "ger": "w\u00fcnschen",
+      "level": "3 el turismo 2"
+    }, {
+      "spa": "dejar de + Infinitiv",
+      "ger": "aufh\u00f6ren zu + Infinitiv",
+      "level": "3 el turismo 2"
+    }, {
+      "spa": "la hu\u00edda",
+      "ger": "die Flucht",
+      "level": "3 el turismo 2"
+    }, {
+      "spa": "destacar",
+      "ger": "herausstechen",
+      "level": "3 el turismo 2"
+    }, {
+      "spa": "huirse de",
+      "ger": "sich fl\u00fcchten vor",
+      "level": "3 el turismo 2"
+    }, {
+      "spa": "el globo",
+      "ger": "der Luftballon",
+      "level": "3 el turismo 2"
+    }, {
+      "spa": "art\u00edstico\/-a",
+      "ger": "k\u00fcnstlerisch",
+      "level": "3 el turismo 2"
+    }, {
+      "spa": "la congesti\u00f3n",
+      "ger": "die \u00dcberf\u00fcllung",
+      "level": "3 el turismo 2"
+    }, {
+      "spa": "citar",
+      "ger": "nennen, zitieren",
+      "level": "3 el turismo 2"
+    }, {
+      "spa": "la cuerda",
+      "ger": "das Seil",
+      "level": "3 el turismo 2"
+    }, {
+      "spa": "dem\u00e1s",
+      "ger": "hier: weitere",
+      "level": "3 el turismo 2"
+    }, {
+      "spa": "el descenso",
+      "ger": "der Abstieg, die Talfahrt",
+      "level": "3 el turismo 2"
+    }, {
+      "spa": "la infraestructura",
+      "ger": "die Infrastruktur",
+      "level": "3 el turismo 2"
+    }, {
+      "spa": "mantener",
+      "ger": "aufrechterhalten",
+      "level": "3 el turismo 2"
+    }, {
+      "spa": "la mayor\u00eda",
+      "ger": "die Mehrheit",
+      "level": "3 el turismo 2"
+    }, {
+      "spa": "el desplazamiento",
+      "ger": "hier: die Anreise (sonst: die Vertreibung)",
+      "level": "3 el turismo 2"
+    }, {
+      "spa": "proporcionar",
+      "ger": "verschaffen",
+      "level": "3 el turismo 2"
+    }, {
+      "spa": "el parapente",
+      "ger": "das Paragliding",
+      "level": "3 el turismo 2"
+    }, {
+      "spa": "la manifestaci\u00f3n",
+      "ger": "die Erscheinungsform",
+      "level": "3 el turismo 2"
+    }, {
+      "spa": "principalmente",
+      "ger": "besonders",
+      "level": "3 el turismo 2"
+    }, {
+      "spa": "el atractivo",
+      "ger": "der Anziehungspunkt",
+      "level": "3 el turismo 2"
+    }],
+    "7 La migraci\u00f3n 1": [{
+      "spa": "estricto\/-a",
+      "ger": "streng",
+      "level": "7 La migraci\u00f3n 1"
+    }, {
+      "spa": "los papeles",
+      "ger": "hier: die Reise-\/ Ausweisdokumente",
+      "level": "7 La migraci\u00f3n 1"
+    }, {
+      "spa": "inmigrar a",
+      "ger": "einwandern nach",
+      "level": "7 La migraci\u00f3n 1"
+    }, {
+      "spa": "emigrar a",
+      "ger": "auswandern nach",
+      "level": "7 La migraci\u00f3n 1"
+    }, {
+      "spa": "el pasaporte",
+      "ger": "der Reisepass",
+      "level": "7 La migraci\u00f3n 1"
+    }, {
+      "spa": "la valla",
+      "ger": "der Zaun",
+      "level": "7 La migraci\u00f3n 1"
+    }, {
+      "spa": "la dictadura",
+      "ger": "die Diktatur",
+      "level": "7 La migraci\u00f3n 1"
+    }, {
+      "spa": "Senegal",
+      "ger": "Senegal",
+      "level": "7 La migraci\u00f3n 1"
+    }, {
+      "spa": "la sangre",
+      "ger": "das Blut",
+      "level": "7 La migraci\u00f3n 1"
+    }, {
+      "spa": "duro\/-a",
+      "ger": "hart",
+      "level": "7 La migraci\u00f3n 1"
+    }, {
+      "spa": "el jefe",
+      "ger": "der Chef",
+      "level": "7 La migraci\u00f3n 1"
+    }, {
+      "spa": "la inmigraci\u00f3n",
+      "ger": "die Einwanderung",
+      "level": "7 La migraci\u00f3n 1"
+    }, {
+      "spa": "la venganza",
+      "ger": "die Rache",
+      "level": "7 La migraci\u00f3n 1"
+    }, {
+      "spa": "el salario",
+      "ger": "der Lohn",
+      "level": "7 La migraci\u00f3n 1"
+    }, {
+      "spa": "ocultar \/ esconder(se)",
+      "ger": "(sich) verstecken",
+      "level": "7 La migraci\u00f3n 1"
+    }, {
+      "spa": "fr\u00e1gil",
+      "ger": "br\u00fcchig, zerbrechlich",
+      "level": "7 La migraci\u00f3n 1"
+    }, {
+      "spa": "factores de empuje",
+      "ger": "Druckfaktoren (Push-Faktoren)",
+      "level": "7 La migraci\u00f3n 1"
+    }, {
+      "spa": "el terrorismo",
+      "ger": "der Terrorismus",
+      "level": "7 La migraci\u00f3n 1"
+    }, {
+      "spa": "ganar dinero",
+      "ger": "Geld verdienen",
+      "level": "7 La migraci\u00f3n 1"
+    }, {
+      "spa": "comprar",
+      "ger": "kaufen",
+      "level": "7 La migraci\u00f3n 1"
+    }, {
+      "spa": "factores de atracci\u00f3n",
+      "ger": "Anziehungsfaktoren (Pull-Faktoren)",
+      "level": "7 La migraci\u00f3n 1"
+    }, {
+      "spa": "el pasaje",
+      "ger": "der Fahrschein",
+      "level": "7 La migraci\u00f3n 1"
+    }, {
+      "spa": "el seguro social",
+      "ger": "die Sozialversicherung",
+      "level": "7 La migraci\u00f3n 1"
+    }, {
+      "spa": "el motivo",
+      "ger": "das Motiv",
+      "level": "7 La migraci\u00f3n 1"
+    }, {
+      "spa": "sobrecargar",
+      "ger": "\u00fcberf\u00fcllen",
+      "level": "7 La migraci\u00f3n 1"
+    }, {
+      "spa": "el movimiento \u201cprimavera \u00e1rabe\u201c",
+      "ger": "der arabische Fr\u00fchling",
+      "level": "7 La migraci\u00f3n 1"
+    }, {
+      "spa": "la tarjeta de identidad",
+      "ger": "der Personalausweis",
+      "level": "7 La migraci\u00f3n 1"
+    }, {
+      "spa": "inseguro\/-a",
+      "ger": "unsicher",
+      "level": "7 La migraci\u00f3n 1"
+    }, {
+      "spa": "sencillo\/-a",
+      "ger": "einfach",
+      "level": "7 La migraci\u00f3n 1"
+    }, {
+      "spa": "el subdesarrollo",
+      "ger": "die Unterentwicklung",
+      "level": "7 La migraci\u00f3n 1"
+    }, {
+      "spa": "subsahariano\/-a",
+      "ger": "s\u00fcdlich der Sahara",
+      "level": "7 La migraci\u00f3n 1"
+    }, {
+      "spa": "triste",
+      "ger": "traurig",
+      "level": "7 La migraci\u00f3n 1"
+    }, {
+      "spa": "el estrecho",
+      "ger": "die (Meer-)Enge",
+      "level": "7 La migraci\u00f3n 1"
+    }, {
+      "spa": "el aire",
+      "ger": "die Luft",
+      "level": "7 La migraci\u00f3n 1"
+    }, {
+      "spa": "la guerra civil",
+      "ger": "der B\u00fcrgerkrieg",
+      "level": "7 La migraci\u00f3n 1"
+    }, {
+      "spa": "la moto",
+      "ger": "das Motorrad",
+      "level": "7 La migraci\u00f3n 1"
+    }, {
+      "spa": "el negocio",
+      "ger": "das Gesch\u00e4ft",
+      "level": "7 La migraci\u00f3n 1"
+    }, {
+      "spa": "Costa de Marfil",
+      "ger": "Elfenbeink\u00fcste",
+      "level": "7 La migraci\u00f3n 1"
+    }, {
+      "spa": "la posibilidad",
+      "ger": "die M\u00f6glichkeit",
+      "level": "7 La migraci\u00f3n 1"
+    }, {
+      "spa": "las estructuras",
+      "ger": "die Strukturen",
+      "level": "7 La migraci\u00f3n 1"
+    }, {
+      "spa": "el desierto",
+      "ger": "die W\u00fcste",
+      "level": "7 La migraci\u00f3n 1"
+    }, {
+      "spa": "el refugiado",
+      "ger": "der Fl\u00fcchtling",
+      "level": "7 La migraci\u00f3n 1"
+    }, {
+      "spa": "el estrecho de Gibraltar",
+      "ger": "die Meerenge von Gibraltar",
+      "level": "7 La migraci\u00f3n 1"
+    }, {
+      "spa": "el alambre de espina",
+      "ger": "der Stacheldraht",
+      "level": "7 La migraci\u00f3n 1"
+    }, {
+      "spa": "la patera",
+      "ger": "das kleine Boot",
+      "level": "7 La migraci\u00f3n 1"
+    }, {
+      "spa": "La Guardia Civil",
+      "ger": "die Gendarmerie \/ Zivilgarde",
+      "level": "7 La migraci\u00f3n 1"
+    }, {
+      "spa": "Marruecos",
+      "ger": "Marokko",
+      "level": "7 La migraci\u00f3n 1"
+    }, {
+      "spa": "el viaje",
+      "ger": "die Reise",
+      "level": "7 La migraci\u00f3n 1"
+    }, {
+      "spa": "la construcci\u00f3n",
+      "ger": "die Baubranche",
+      "level": "7 La migraci\u00f3n 1"
+    }, {
+      "spa": "la paz",
+      "ger": "der Frieden",
+      "level": "7 La migraci\u00f3n 1"
+    }, {
+      "spa": "desesperado\/-a",
+      "ger": "verzweifelt",
+      "level": "7 La migraci\u00f3n 1"
+    }, {
+      "spa": "el colonialismo",
+      "ger": "der Kolonialismus",
+      "level": "7 La migraci\u00f3n 1"
+    }, {
+      "spa": "Mali",
+      "ger": "Mali",
+      "level": "7 La migraci\u00f3n 1"
+    }, {
+      "spa": "el enclave",
+      "ger": "die Enklave (Melilla und Ceuta)",
+      "level": "7 La migraci\u00f3n 1"
+    }, {
+      "spa": "permitir",
+      "ger": "erlauben",
+      "level": "7 La migraci\u00f3n 1"
+    }, {
+      "spa": "peligroso\/-a",
+      "ger": "gef\u00e4hrlich",
+      "level": "7 La migraci\u00f3n 1"
+    }, {
+      "spa": "trepar",
+      "ger": "klettern",
+      "level": "7 La migraci\u00f3n 1"
+    }, {
+      "spa": "rentable",
+      "ger": "lukrativ\/profitabel",
+      "level": "7 La migraci\u00f3n 1"
+    }, {
+      "spa": "la situaci\u00f3n econ\u00f3mica",
+      "ger": "die wirtschaftlichen Umst\u00e4nde",
+      "level": "7 La migraci\u00f3n 1"
+    }, {
+      "spa": "\u00c1frica",
+      "ger": "Afrika",
+      "level": "7 La migraci\u00f3n 1"
+    }, {
+      "spa": "las estructuras estatales",
+      "ger": "die staatlichen Strukturen",
+      "level": "7 La migraci\u00f3n 1"
+    }, {
+      "spa": "caro\/-a",
+      "ger": "teuer",
+      "level": "7 La migraci\u00f3n 1"
+    }, {
+      "spa": "la velocidad",
+      "ger": "die Geschwindigkeit",
+      "level": "7 La migraci\u00f3n 1"
+    }, {
+      "spa": "la guerra",
+      "ger": "der Krieg",
+      "level": "7 La migraci\u00f3n 1"
+    }, {
+      "spa": "Algeria",
+      "ger": "Algerien",
+      "level": "7 La migraci\u00f3n 1"
+    }, {
+      "spa": "sangrar",
+      "ger": "bluten",
+      "level": "7 La migraci\u00f3n 1"
+    }, {
+      "spa": "ahogarse",
+      "ger": "ertrinken",
+      "level": "7 La migraci\u00f3n 1"
+    }, {
+      "spa": "la monta\u00f1a",
+      "ger": "der Berg",
+      "level": "7 La migraci\u00f3n 1"
+    }, {
+      "spa": "herir",
+      "ger": "verletzen",
+      "level": "7 La migraci\u00f3n 1"
+    }, {
+      "spa": "la educaci\u00f3n",
+      "ger": "die Bildung",
+      "level": "7 La migraci\u00f3n 1"
+    }, {
+      "spa": "la situaci\u00f3n higi\u00e9nica",
+      "ger": "die hygienischen Zust\u00e4nde",
+      "level": "7 La migraci\u00f3n 1"
+    }, {
+      "spa": "miedoso\/-a",
+      "ger": "\u00e4ngstlich",
+      "level": "7 La migraci\u00f3n 1"
+    }, {
+      "spa": "la frontera",
+      "ger": "die Grenze",
+      "level": "7 La migraci\u00f3n 1"
+    }, {
+      "spa": "el billete",
+      "ger": "das Ticket",
+      "level": "7 La migraci\u00f3n 1"
+    }, {
+      "spa": "huir de",
+      "ger": "fl\u00fcchten vor",
+      "level": "7 La migraci\u00f3n 1"
+    }, {
+      "spa": "escaparse (de)",
+      "ger": "fliehen, entkommen (von)",
+      "level": "7 La migraci\u00f3n 1"
+    }, {
+      "spa": "el nivel de vida",
+      "ger": "der Lebensstandard",
+      "level": "7 La migraci\u00f3n 1"
+    }, {
+      "spa": "agotador\/a",
+      "ger": "erm\u00fcdend",
+      "level": "7 La migraci\u00f3n 1"
+    }, {
+      "spa": "ahogar",
+      "ger": "ersticken",
+      "level": "7 La migraci\u00f3n 1"
+    }, {
+      "spa": "la persecuci\u00f3n",
+      "ger": "die Verfolgung",
+      "level": "7 La migraci\u00f3n 1"
+    }, {
+      "spa": "hundirse",
+      "ger": "sinken",
+      "level": "7 La migraci\u00f3n 1"
+    }, {
+      "spa": "la llegada",
+      "ger": "die Ankunft",
+      "level": "7 La migraci\u00f3n 1"
+    }, {
+      "spa": "financiar",
+      "ger": "finanzieren",
+      "level": "7 La migraci\u00f3n 1"
+    }, {
+      "spa": "el\/la migrante",
+      "ger": "der\/die Migrant\/in",
+      "level": "7 La migraci\u00f3n 1"
+    }, {
+      "spa": "trabajar ilegalmente",
+      "ger": "illegal arbeiten",
+      "level": "7 La migraci\u00f3n 1"
+    }, {
+      "spa": "contrabar",
+      "ger": "schmuggeln",
+      "level": "7 La migraci\u00f3n 1"
+    }, {
+      "spa": "los v\u00ednculos familiares",
+      "ger": "die Familienverbindungen",
+      "level": "7 La migraci\u00f3n 1"
+    }, {
+      "spa": "respirar",
+      "ger": "atmen",
+      "level": "7 La migraci\u00f3n 1"
+    }, {
+      "spa": "detener",
+      "ger": "verhaften",
+      "level": "7 La migraci\u00f3n 1"
+    }, {
+      "spa": "\u00c1frica subsahariana",
+      "ger": "Das Afrika s\u00fcdlich der Sahara (\u201eSchwarzafrika\u201c)",
+      "level": "7 La migraci\u00f3n 1"
+    }, {
+      "spa": "trabajar a prueba",
+      "ger": "auf Probe arbeiten",
+      "level": "7 La migraci\u00f3n 1"
+    }, {
+      "spa": "esconderse",
+      "ger": "sich verstecken",
+      "level": "7 La migraci\u00f3n 1"
+    }, {
+      "spa": "las consecuencias",
+      "ger": "die Auswirkungen",
+      "level": "7 La migraci\u00f3n 1"
+    }, {
+      "spa": "el S\u00e1hara",
+      "ger": "die Sahara",
+      "level": "7 La migraci\u00f3n 1"
+    }, {
+      "spa": "el\/la africano\/-a",
+      "ger": "der\/die Afrikaner\/in",
+      "level": "7 La migraci\u00f3n 1"
+    }, {
+      "spa": "vender",
+      "ger": "verkaufen",
+      "level": "7 La migraci\u00f3n 1"
+    }, {
+      "spa": "la herida",
+      "ger": "die Wunde \/ die Verletzung",
+      "level": "7 La migraci\u00f3n 1"
+    }, {
+      "spa": "la emigraci\u00f3n",
+      "ger": "die Auswanderung",
+      "level": "7 La migraci\u00f3n 1"
+    }],
+    "6 La eduacaci\u00f3n entre la poblaci\u00f3n gitana": [{
+      "spa": "la educaci\u00f3n",
+      "ger": "die Bildung",
+      "level": "6 La eduacaci\u00f3n entre la poblaci\u00f3n gitana"
+    }, {
+      "spa": "el payo",
+      "ger": "der Nichtzigeuner",
+      "level": "6 La eduacaci\u00f3n entre la poblaci\u00f3n gitana"
+    }, {
+      "spa": "desprender de",
+      "ger": "ableiten aus, aus etw. schlie\u00dfen",
+      "level": "6 La eduacaci\u00f3n entre la poblaci\u00f3n gitana"
+    }, {
+      "spa": "seg\u00fan",
+      "ger": "laut, gem\u00e4\u00df, nach",
+      "level": "6 La eduacaci\u00f3n entre la poblaci\u00f3n gitana"
+    }, {
+      "spa": "el tercio",
+      "ger": "das Drittel",
+      "level": "6 La eduacaci\u00f3n entre la poblaci\u00f3n gitana"
+    }, {
+      "spa": "la media",
+      "ger": "der Durchschnitt",
+      "level": "6 La eduacaci\u00f3n entre la poblaci\u00f3n gitana"
+    }, {
+      "spa": "el \u00edndice",
+      "ger": "das Verzeichnis",
+      "level": "6 La eduacaci\u00f3n entre la poblaci\u00f3n gitana"
+    }, {
+      "spa": "el informe",
+      "ger": "der Bericht",
+      "level": "6 La eduacaci\u00f3n entre la poblaci\u00f3n gitana"
+    }, {
+      "spa": "el abandono",
+      "ger": "das Verlassen",
+      "level": "6 La eduacaci\u00f3n entre la poblaci\u00f3n gitana"
+    }, {
+      "spa": "la causa",
+      "ger": "der Grund",
+      "level": "6 La eduacaci\u00f3n entre la poblaci\u00f3n gitana"
+    }, {
+      "spa": "revelar",
+      "ger": "offenbaren",
+      "level": "6 La eduacaci\u00f3n entre la poblaci\u00f3n gitana"
+    }, {
+      "spa": "la colaboraci\u00f3n",
+      "ger": "die Zusammenarbeit",
+      "level": "6 La eduacaci\u00f3n entre la poblaci\u00f3n gitana"
+    }, {
+      "spa": "retirar",
+      "ger": "sich zur\u00fcckziehen",
+      "level": "6 La eduacaci\u00f3n entre la poblaci\u00f3n gitana"
+    }, {
+      "spa": "demostrar (o -> ue)",
+      "ger": "beweisen",
+      "level": "6 La eduacaci\u00f3n entre la poblaci\u00f3n gitana"
+    }, {
+      "spa": "reciente",
+      "ger": "aktuell",
+      "level": "6 La eduacaci\u00f3n entre la poblaci\u00f3n gitana"
+    }, {
+      "spa": "el hecho",
+      "ger": "die Tatsache, Fakt",
+      "level": "6 La eduacaci\u00f3n entre la poblaci\u00f3n gitana"
+    }, {
+      "spa": "el porcentaje",
+      "ger": "der Prozentsatz",
+      "level": "6 La eduacaci\u00f3n entre la poblaci\u00f3n gitana"
+    }, {
+      "spa": "la peculiaridad",
+      "ger": "die Eigenheit, die Beonderheit",
+      "level": "6 La eduacaci\u00f3n entre la poblaci\u00f3n gitana"
+    }, {
+      "spa": "dejar",
+      "ger": "lassen, verlassen",
+      "level": "6 La eduacaci\u00f3n entre la poblaci\u00f3n gitana"
+    }, {
+      "spa": "el colectivo",
+      "ger": "hier: die Gemeinschaft | das Kollektiv",
+      "level": "6 La eduacaci\u00f3n entre la poblaci\u00f3n gitana"
+    }, {
+      "spa": "la retirada",
+      "ger": "der R\u00fcckzug",
+      "level": "6 La eduacaci\u00f3n entre la poblaci\u00f3n gitana"
+    }, {
+      "spa": "el referente",
+      "ger": "hier: Bezugsperson, Vorbild",
+      "level": "6 La eduacaci\u00f3n entre la poblaci\u00f3n gitana"
+    }, {
+      "spa": "el alumnado",
+      "ger": "die Sch\u00fclerschaft",
+      "level": "6 La eduacaci\u00f3n entre la poblaci\u00f3n gitana"
+    }, {
+      "spa": "obligatorio\/-a",
+      "ger": "verpflichtend",
+      "level": "6 La eduacaci\u00f3n entre la poblaci\u00f3n gitana"
+    }, {
+      "spa": "frente a",
+      "ger": "gegen\u00fcber von",
+      "level": "6 La eduacaci\u00f3n entre la poblaci\u00f3n gitana"
+    }, {
+      "spa": "la formaci\u00f3n",
+      "ger": "die Ausbildung",
+      "level": "6 La eduacaci\u00f3n entre la poblaci\u00f3n gitana"
+    }, {
+      "spa": "participar",
+      "ger": "teilnehmen",
+      "level": "6 La eduacaci\u00f3n entre la poblaci\u00f3n gitana"
+    }, {
+      "spa": "mientras",
+      "ger": "w\u00e4hrend",
+      "level": "6 La eduacaci\u00f3n entre la poblaci\u00f3n gitana"
+    }, {
+      "spa": "poner el dedo en la llaga",
+      "ger": "den Finger in die Wunde legen",
+      "level": "6 La eduacaci\u00f3n entre la poblaci\u00f3n gitana"
+    }, {
+      "spa": "la ense\u00f1anza",
+      "ger": "die Bildung",
+      "level": "6 La eduacaci\u00f3n entre la poblaci\u00f3n gitana"
+    }, {
+      "spa": "abandonar",
+      "ger": "verlassen",
+      "level": "6 La eduacaci\u00f3n entre la poblaci\u00f3n gitana"
+    }, {
+      "spa": "tener que ver con",
+      "ger": "zu tun haben mit",
+      "level": "6 La eduacaci\u00f3n entre la poblaci\u00f3n gitana"
+    }, {
+      "spa": "entre",
+      "ger": "zwischen, hier: entlang, innerhalb",
+      "level": "6 La eduacaci\u00f3n entre la poblaci\u00f3n gitana"
+    }, {
+      "spa": "el progenitor",
+      "ger": "der direkte Vorfahre",
+      "level": "6 La eduacaci\u00f3n entre la poblaci\u00f3n gitana"
+    }],
+    "8 La migraci\u00f3n 2": [{
+      "spa": "quitar",
+      "ger": "wegnehmen",
+      "level": "8 La migraci\u00f3n 2"
+    }, {
+      "spa": "sostener",
+      "ger": "unterst\u00fctzen, aufreechterhalten",
+      "level": "8 La migraci\u00f3n 2"
+    }, {
+      "spa": "guardar",
+      "ger": "aufpassen",
+      "level": "8 La migraci\u00f3n 2"
+    }, {
+      "spa": "la luz",
+      "ger": "das Licht, der Strom",
+      "level": "8 La migraci\u00f3n 2"
+    }, {
+      "spa": "la chatarra",
+      "ger": "das Alteisen (\/Metallschrott) (basura met\u00e1lica)",
+      "level": "8 La migraci\u00f3n 2"
+    }, {
+      "spa": "encontrar",
+      "ger": "finden",
+      "level": "8 La migraci\u00f3n 2"
+    }, {
+      "spa": "formarse",
+      "ger": "sich bilden",
+      "level": "8 La migraci\u00f3n 2"
+    }, {
+      "spa": "abusar de a\/c",
+      "ger": "etw. missbrauchen",
+      "level": "8 La migraci\u00f3n 2"
+    }, {
+      "spa": "sacar",
+      "ger": "(heraus-) nehmen",
+      "level": "8 La migraci\u00f3n 2"
+    }, {
+      "spa": "la nave",
+      "ger": "die Lagerhalle",
+      "level": "8 La migraci\u00f3n 2"
+    }, {
+      "spa": "ni siquiera",
+      "ger": "nicht einmal",
+      "level": "8 La migraci\u00f3n 2"
+    }, {
+      "spa": "la pensi\u00f3n",
+      "ger": "die Rente",
+      "level": "8 La migraci\u00f3n 2"
+    }, {
+      "spa": "el destino",
+      "ger": "das Schicksal",
+      "level": "8 La migraci\u00f3n 2"
+    }, {
+      "spa": "sobrevivir",
+      "ger": "\u00fcberleben",
+      "level": "8 La migraci\u00f3n 2"
+    }, {
+      "spa": "la crisis",
+      "ger": "die Krise",
+      "level": "8 La migraci\u00f3n 2"
+    }, {
+      "spa": "la delincuencia",
+      "ger": "die Kriminalit\u00e4t",
+      "level": "8 La migraci\u00f3n 2"
+    }, {
+      "spa": "la renta m\u00ednima de inserci\u00f3n",
+      "ger": "die Sozialhilfe",
+      "level": "8 La migraci\u00f3n 2"
+    }, {
+      "spa": "sufrir de",
+      "ger": "leiden unter",
+      "level": "8 La migraci\u00f3n 2"
+    }, {
+      "spa": "la hucha",
+      "ger": "das Sparschwein",
+      "level": "8 La migraci\u00f3n 2"
+    }, {
+      "spa": "desmentir (e -> ie)",
+      "ger": "widerlegen",
+      "level": "8 La migraci\u00f3n 2"
+    }, {
+      "spa": "la sanidad",
+      "ger": "das Gesundheitswesen",
+      "level": "8 La migraci\u00f3n 2"
+    }, {
+      "spa": "propio\/-a",
+      "ger": "eigener,-e",
+      "level": "8 La migraci\u00f3n 2"
+    }, {
+      "spa": "seguir (e -> i)",
+      "ger": "folgen, verfolgen, weitermachen",
+      "level": "8 La migraci\u00f3n 2"
+    }, {
+      "spa": "aportar",
+      "ger": "zu etw. beitragen",
+      "level": "8 La migraci\u00f3n 2"
+    }, {
+      "spa": "el\/la juez",
+      "ger": "der\/die Richter\/-in",
+      "level": "8 La migraci\u00f3n 2"
+    }, {
+      "spa": "meterse",
+      "ger": "sich hineinbegeben",
+      "level": "8 La migraci\u00f3n 2"
+    }, {
+      "spa": "unirse",
+      "ger": "sich zusammentun",
+      "level": "8 La migraci\u00f3n 2"
+    }, {
+      "spa": "colapsar a\/c",
+      "ger": "etw. lahmlegen",
+      "level": "8 La migraci\u00f3n 2"
+    }, {
+      "spa": "apoderarse de algo",
+      "ger": "etw. in Beschlag nehmen",
+      "level": "8 La migraci\u00f3n 2"
+    }, {
+      "spa": "el\/la jubilado\/-a",
+      "ger": "der\/die Rentner\/-in",
+      "level": "8 La migraci\u00f3n 2"
+    }, {
+      "spa": "explotar",
+      "ger": "ausbeuten",
+      "level": "8 La migraci\u00f3n 2"
+    }, {
+      "spa": "el\/la jefe\/-a",
+      "ger": "der Chef, die Chefin",
+      "level": "8 La migraci\u00f3n 2"
+    }, {
+      "spa": "la tarjeta sanitaria",
+      "ger": "die Gesundheitskarte",
+      "level": "8 La migraci\u00f3n 2"
+    }, {
+      "spa": "la fuerza",
+      "ger": "die St\u00e4rke",
+      "level": "8 La migraci\u00f3n 2"
+    }, {
+      "spa": "arraigado",
+      "ger": "tief verwurzelt",
+      "level": "8 La migraci\u00f3n 2"
+    }, {
+      "spa": "adaptarse de algo",
+      "ger": "sich an etwas anpassen",
+      "level": "8 La migraci\u00f3n 2"
+    }],
+    "5 La comunidad gitana en Espa\u00f1a": [{
+      "spa": "pertenecer a",
+      "ger": "geh\u00f6ren zu",
+      "level": "5 La comunidad gitana en Espa\u00f1a"
+    }, {
+      "spa": "a nivel internacional",
+      "ger": "auf internationaler Ebene",
+      "level": "5 La comunidad gitana en Espa\u00f1a"
+    }, {
+      "spa": "contar con",
+      "ger": "hier: haben",
+      "level": "5 La comunidad gitana en Espa\u00f1a"
+    }, {
+      "spa": "incorporarse",
+      "ger": "sich eingliedern",
+      "level": "5 La comunidad gitana en Espa\u00f1a"
+    }, {
+      "spa": "hoy en d\u00eda",
+      "ger": "heutzutage",
+      "level": "5 La comunidad gitana en Espa\u00f1a"
+    }, {
+      "spa": "registrar",
+      "ger": "feststellen",
+      "level": "5 La comunidad gitana en Espa\u00f1a"
+    }, {
+      "spa": "surgir",
+      "ger": "auftauchen",
+      "level": "5 La comunidad gitana en Espa\u00f1a"
+    }, {
+      "spa": "repartirse por",
+      "ger": "sich verteilen \u00fcber",
+      "level": "5 La comunidad gitana en Espa\u00f1a"
+    }, {
+      "spa": "la esperanza de vida",
+      "ger": "die Lebenserwartung",
+      "level": "5 La comunidad gitana en Espa\u00f1a"
+    }, {
+      "spa": "la etnia",
+      "ger": "die Ethnie",
+      "level": "5 La comunidad gitana en Espa\u00f1a"
+    }, {
+      "spa": "el\/la universitario\/-a",
+      "ger": "der\/die Universit\u00e4tsabsolvent\/-in",
+      "level": "5 La comunidad gitana en Espa\u00f1a"
+    }, {
+      "spa": "aislar",
+      "ger": "isolieren",
+      "level": "5 La comunidad gitana en Espa\u00f1a"
+    }, {
+      "spa": "a\u00fan",
+      "ger": "(immer) noch",
+      "level": "5 La comunidad gitana en Espa\u00f1a"
+    }, {
+      "spa": "acceder",
+      "ger": "Zugang haben",
+      "level": "5 La comunidad gitana en Espa\u00f1a"
+    }, {
+      "spa": "frente a",
+      "ger": "gegen\u00fcber von",
+      "level": "5 La comunidad gitana en Espa\u00f1a"
+    }, {
+      "spa": "a veces",
+      "ger": "manchmal",
+      "level": "5 La comunidad gitana en Espa\u00f1a"
+    }, {
+      "spa": "la preocupaci\u00f3n",
+      "ger": "die Sorge",
+      "level": "5 La comunidad gitana en Espa\u00f1a"
+    }, {
+      "spa": "frecuentar",
+      "ger": "besuchen",
+      "level": "5 La comunidad gitana en Espa\u00f1a"
+    }, {
+      "spa": "temprano\/-a",
+      "ger": "fr\u00fch",
+      "level": "5 La comunidad gitana en Espa\u00f1a"
+    }, {
+      "spa": "prolongar",
+      "ger": "verl\u00e4ngern",
+      "level": "5 La comunidad gitana en Espa\u00f1a"
+    }, {
+      "spa": "la vida laboral",
+      "ger": "das Arbeitsleben",
+      "level": "5 La comunidad gitana en Espa\u00f1a"
+    }, {
+      "spa": "el analfabetismo",
+      "ger": "der Analphabetismus",
+      "level": "5 La comunidad gitana en Espa\u00f1a"
+    }, {
+      "spa": "fundar",
+      "ger": "gr\u00fcnden",
+      "level": "5 La comunidad gitana en Espa\u00f1a"
+    }, {
+      "spa": "el\/la gitano\/-a",
+      "ger": "der\/die Roma",
+      "level": "5 La comunidad gitana en Espa\u00f1a"
+    }, {
+      "spa": "la parte",
+      "ger": "der Teil",
+      "level": "5 La comunidad gitana en Espa\u00f1a"
+    }, {
+      "spa": "el absentismo escolar",
+      "ger": "das Schw\u00e4nzen",
+      "level": "5 La comunidad gitana en Espa\u00f1a"
+    }, {
+      "spa": "declarar",
+      "ger": "hier: decir",
+      "level": "5 La comunidad gitana en Espa\u00f1a"
+    }, {
+      "spa": "el Oriente Medio",
+      "ger": "der Nahe Osten",
+      "level": "5 La comunidad gitana en Espa\u00f1a"
+    }, {
+      "spa": "ser sedentario\/-a",
+      "ger": "sesshaft sein",
+      "level": "5 La comunidad gitana en Espa\u00f1a"
+    }, {
+      "spa": "la cuenta ajena",
+      "ger": "hier: angestellt sein",
+      "level": "5 La comunidad gitana en Espa\u00f1a"
+    }, {
+      "spa": "escolarizar",
+      "ger": "beschulen",
+      "level": "5 La comunidad gitana en Espa\u00f1a"
+    }, {
+      "spa": "la precariedad",
+      "ger": "hier: die Armut",
+      "level": "5 La comunidad gitana en Espa\u00f1a"
+    }, {
+      "spa": "la temporalidad laboral",
+      "ger": "die Arbeitsbefristung",
+      "level": "5 La comunidad gitana en Espa\u00f1a"
+    }, {
+      "spa": "Bulgaria",
+      "ger": "Bulgarien",
+      "level": "5 La comunidad gitana en Espa\u00f1a"
+    }, {
+      "spa": "varios\/-as",
+      "ger": "einige, diverse",
+      "level": "5 La comunidad gitana en Espa\u00f1a"
+    }, {
+      "spa": "es decir",
+      "ger": "das hei\u00dft",
+      "level": "5 La comunidad gitana en Espa\u00f1a"
+    }, {
+      "spa": "marginalizado\/-a",
+      "ger": "(gesellschaftlich) an den Rand gedr\u00e4ngt",
+      "level": "5 La comunidad gitana en Espa\u00f1a"
+    }, {
+      "spa": "por lo menos",
+      "ger": "zumindest, mindestens",
+      "level": "5 La comunidad gitana en Espa\u00f1a"
+    }, {
+      "spa": "Ruman\u00eda",
+      "ger": "Rum\u00e4nien",
+      "level": "5 La comunidad gitana en Espa\u00f1a"
+    }, {
+      "spa": "propio\/-a",
+      "ger": "eigen(e)",
+      "level": "5 La comunidad gitana en Espa\u00f1a"
+    }, {
+      "spa": "la media",
+      "ger": "der Durchschnitt",
+      "level": "5 La comunidad gitana en Espa\u00f1a"
+    }, {
+      "spa": "estigmatizar",
+      "ger": "stigmatisieren, brandmarken",
+      "level": "5 La comunidad gitana en Espa\u00f1a"
+    }, {
+      "spa": "el prejuicio",
+      "ger": "das Vorurteil",
+      "level": "5 La comunidad gitana en Espa\u00f1a"
+    }, {
+      "spa": "el fracaso",
+      "ger": "das Scheitern",
+      "level": "5 La comunidad gitana en Espa\u00f1a"
+    }, {
+      "spa": "Hungr\u00eda",
+      "ger": "Ungarn",
+      "level": "5 La comunidad gitana en Espa\u00f1a"
+    }],
+    "2 el turismo 1": [{
+      "spa": "cultural",
+      "ger": "kulturell, Kultur-",
+      "level": "2 el turismo 1"
+    }, {
+      "spa": "aquel\/aquella",
+      "ger": "jener\/jene",
+      "level": "2 el turismo 1"
+    }, {
+      "spa": "poseer",
+      "ger": "besitzen",
+      "level": "2 el turismo 1"
+    }, {
+      "spa": "el ingreso",
+      "ger": "die Einnahme",
+      "level": "2 el turismo 1"
+    }, {
+      "spa": "el gasto",
+      "ger": "die Ausgabe (\u00f6konomisch)",
+      "level": "2 el turismo 1"
+    }, {
+      "spa": "la desventaja",
+      "ger": "der Nachteil",
+      "level": "2 el turismo 1"
+    }, {
+      "spa": "la observaci\u00f3n",
+      "ger": "die Beobachtung",
+      "level": "2 el turismo 1"
+    }, {
+      "spa": "el\/la cliente",
+      "ger": "der Kunde, die Kundin",
+      "level": "2 el turismo 1"
+    }, {
+      "spa": "enorme",
+      "ger": "enorm, besonders",
+      "level": "2 el turismo 1"
+    }, {
+      "spa": "la p\u00e9rdida",
+      "ger": "der Verlust",
+      "level": "2 el turismo 1"
+    }, {
+      "spa": "el\/la turista",
+      "ger": "der Tourist, die Touristin",
+      "level": "2 el turismo 1"
+    }, {
+      "spa": "el modo de vida",
+      "ger": "die Lebensweise",
+      "level": "2 el turismo 1"
+    }, {
+      "spa": "el desarrollo",
+      "ger": "die Entwicklung",
+      "level": "2 el turismo 1"
+    }, {
+      "spa": "el tipo",
+      "ger": "die Art",
+      "level": "2 el turismo 1"
+    }, {
+      "spa": "el medio ambiente",
+      "ger": "die Umwelt",
+      "level": "2 el turismo 1"
+    }, {
+      "spa": "la playa",
+      "ger": "der Strand",
+      "level": "2 el turismo 1"
+    }, {
+      "spa": "el espacio",
+      "ger": "der Platz",
+      "level": "2 el turismo 1"
+    }, {
+      "spa": "la connotaci\u00f3n",
+      "ger": "die Verbindung",
+      "level": "2 el turismo 1"
+    }, {
+      "spa": "aumentar",
+      "ger": "vergr\u00f6\u00dfern",
+      "level": "2 el turismo 1"
+    }, {
+      "spa": "mover (o->ue)",
+      "ger": "bewegen",
+      "level": "2 el turismo 1"
+    }, {
+      "spa": "el interior",
+      "ger": "das Innere",
+      "level": "2 el turismo 1"
+    }, {
+      "spa": "la calidad",
+      "ger": "die Qualit\u00e4t",
+      "level": "2 el turismo 1"
+    }, {
+      "spa": "el paraje natural",
+      "ger": "die naturbelassene Landschaft",
+      "level": "2 el turismo 1"
+    }, {
+      "spa": "deprimido\/-a",
+      "ger": "hier: \u00f6konomisch schwach | deprimiert",
+      "level": "2 el turismo 1"
+    }, {
+      "spa": "la motivaci\u00f3n",
+      "ger": "die Motivation, das Motiv",
+      "level": "2 el turismo 1"
+    }, {
+      "spa": "permitir",
+      "ger": "erlauben",
+      "level": "2 el turismo 1"
+    }, {
+      "spa": "la fauna",
+      "ger": "die Fauna",
+      "level": "2 el turismo 1"
+    }, {
+      "spa": "la estancia",
+      "ger": "der Aufenthalt",
+      "level": "2 el turismo 1"
+    }, {
+      "spa": "el paisaje",
+      "ger": "die Lanschaft",
+      "level": "2 el turismo 1"
+    }, {
+      "spa": "el campo",
+      "ger": "das Land (Landwirtschaft)",
+      "level": "2 el turismo 1"
+    }, {
+      "spa": "impedir",
+      "ger": "verhindern",
+      "level": "2 el turismo 1"
+    }, {
+      "spa": "juvenil",
+      "ger": "jugendlich",
+      "level": "2 el turismo 1"
+    }, {
+      "spa": "soler (o->ue) + Infinitiv",
+      "ger": "f\u00fcr gew\u00f6hnlich etwas tun",
+      "level": "2 el turismo 1"
+    }, {
+      "spa": "el turismo",
+      "ger": "der Tourismus",
+      "level": "2 el turismo 1"
+    }, {
+      "spa": "perder",
+      "ger": "verlieren",
+      "level": "2 el turismo 1"
+    }, {
+      "spa": "similar",
+      "ger": "\u00e4hnlich",
+      "level": "2 el turismo 1"
+    }, {
+      "spa": "el tr\u00e1fico",
+      "ger": "der Verkehr",
+      "level": "2 el turismo 1"
+    }, {
+      "spa": "la localidad",
+      "ger": "die \u00d6rtlichkeit",
+      "level": "2 el turismo 1"
+    }, {
+      "spa": "medioambiental",
+      "ger": "Umwelt-",
+      "level": "2 el turismo 1"
+    }, {
+      "spa": "limitar",
+      "ger": "begrenzen",
+      "level": "2 el turismo 1"
+    }, {
+      "spa": "obtener",
+      "ger": "erzielen, erwerben",
+      "level": "2 el turismo 1"
+    }, {
+      "spa": "generar",
+      "ger": "hier: verursachen",
+      "level": "2 el turismo 1"
+    }, {
+      "spa": "buscar",
+      "ger": "suchen",
+      "level": "2 el turismo 1"
+    }, {
+      "spa": "menor",
+      "ger": "geringer",
+      "level": "2 el turismo 1"
+    }, {
+      "spa": "presentar",
+      "ger": "hier: vorweisen",
+      "level": "2 el turismo 1"
+    }, {
+      "spa": "el puente",
+      "ger": "hier: der Br\u00fcckentag | die Br\u00fccke",
+      "level": "2 el turismo 1"
+    }, {
+      "spa": "mayor",
+      "ger": "gr\u00f6\u00dfere\/r",
+      "level": "2 el turismo 1"
+    }, {
+      "spa": "procurar",
+      "ger": "versuchen",
+      "level": "2 el turismo 1"
+    }, {
+      "spa": "destacar",
+      "ger": "hervorheben",
+      "level": "2 el turismo 1"
+    }, {
+      "spa": "relativo a",
+      "ger": "in Bezug auf",
+      "level": "2 el turismo 1"
+    }, {
+      "spa": "rural",
+      "ger": "l\u00e4ndlich",
+      "level": "2 el turismo 1"
+    }, {
+      "spa": "la tendencia",
+      "ger": "die Tendenz",
+      "level": "2 el turismo 1"
+    }, {
+      "spa": "el sol",
+      "ger": "die Sonne",
+      "level": "2 el turismo 1"
+    }, {
+      "spa": "incluso",
+      "ger": "inklusive",
+      "level": "2 el turismo 1"
+    }, {
+      "spa": "el turismo de masas",
+      "ger": "der Massentourismus",
+      "level": "2 el turismo 1"
+    }, {
+      "spa": "por d\u00eda",
+      "ger": "am Tag",
+      "level": "2 el turismo 1"
+    }, {
+      "spa": "la identidad",
+      "ger": "die Identit\u00e4t",
+      "level": "2 el turismo 1"
+    }, {
+      "spa": "la contaminaci\u00f3n",
+      "ger": "die Verschmutzung",
+      "level": "2 el turismo 1"
+    }, {
+      "spa": "el ocio",
+      "ger": "die Freizeit",
+      "level": "2 el turismo 1"
+    }, {
+      "spa": "la importancia",
+      "ger": "die Wichtigkeit",
+      "level": "2 el turismo 1"
+    }, {
+      "spa": "integrar",
+      "ger": "integrieren",
+      "level": "2 el turismo 1"
+    }, {
+      "spa": "la intenci\u00f3n",
+      "ger": "die Absicht, der Vorsatz",
+      "level": "2 el turismo 1"
+    }, {
+      "spa": "la agricultura",
+      "ger": "die Landwirtschaft",
+      "level": "2 el turismo 1"
+    }, {
+      "spa": "la conservaci\u00f3n",
+      "ger": "die Bewahrung",
+      "level": "2 el turismo 1"
+    }, {
+      "spa": "el\/la visitante",
+      "ger": "der Besucher, die Besucherin",
+      "level": "2 el turismo 1"
+    }, {
+      "spa": "corto\/-a",
+      "ger": "kurz",
+      "level": "2 el turismo 1"
+    }, {
+      "spa": "estar ligado\/-a a",
+      "ger": "verkn\u00fcpft sein mit",
+      "level": "2 el turismo 1"
+    }, {
+      "spa": "ocupar",
+      "ger": "besetzen",
+      "level": "2 el turismo 1"
+    }, {
+      "spa": "la flora",
+      "ger": "die Flora",
+      "level": "2 el turismo 1"
+    }, {
+      "spa": "cada vez m\u00e1s",
+      "ger": "immer mehr",
+      "level": "2 el turismo 1"
+    }, {
+      "spa": "el establecimiento",
+      "ger": "die Etablierung, der Betrieb, die Errichtung",
+      "level": "2 el turismo 1"
+    }, {
+      "spa": "la soluci\u00f3n",
+      "ger": "die L\u00f6sung",
+      "level": "2 el turismo 1"
+    }, {
+      "spa": "el empleo",
+      "ger": "die Arbeit",
+      "level": "2 el turismo 1"
+    }, {
+      "spa": "ecol\u00f3gico\/-a",
+      "ger": "\u00f6kologisch",
+      "level": "2 el turismo 1"
+    }, {
+      "spa": "la suerte",
+      "ger": "das Gl\u00fcck",
+      "level": "2 el turismo 1"
+    }, {
+      "spa": "estacional",
+      "ger": "saisonal",
+      "level": "2 el turismo 1"
+    }, {
+      "spa": "desarrollarse",
+      "ger": "sich entwickeln",
+      "level": "2 el turismo 1"
+    }, {
+      "spa": "definir",
+      "ger": "definieren",
+      "level": "2 el turismo 1"
+    }, {
+      "spa": "contaminar",
+      "ger": "verschmutzen",
+      "level": "2 el turismo 1"
+    }, {
+      "spa": "la ventaja",
+      "ger": "der Vorteil",
+      "level": "2 el turismo 1"
+    }, {
+      "spa": "infantil",
+      "ger": "kindlich",
+      "level": "2 el turismo 1"
+    }, {
+      "spa": "el despoblamiento",
+      "ger": "die Entv\u00f6lkerung",
+      "level": "2 el turismo 1"
+    }],
+    "4 el turismo 3": [{
+      "spa": "Andaluc\u00eda",
+      "ger": "Andalusien",
+      "level": "4 el turismo 3"
+    }, {
+      "spa": "atraer",
+      "ger": "anziehen, anlocken",
+      "level": "4 el turismo 3"
+    }, {
+      "spa": "querer",
+      "ger": "lieben",
+      "level": "4 el turismo 3"
+    }, {
+      "spa": "la composici\u00f3n",
+      "ger": "die Zusammensetzung",
+      "level": "4 el turismo 3"
+    }, {
+      "spa": "la campa\u00f1a tur\u00edstica",
+      "ger": "die Tourismuskampagne",
+      "level": "4 el turismo 3"
+    }],
+    "1 eigene": [{
+      "spa": "la cualidad",
+      "ger": "die Qualit\u00e4t (\/gute Eigenschaft)",
+      "level": "1 eigene"
+    }, {
+      "spa": "las instrucciones",
+      "ger": "die Anleitung",
+      "level": "1 eigene"
+    }, {
+      "spa": "muchas veces",
+      "ger": "oft",
+      "level": "1 eigene"
+    }]
+  }
+}

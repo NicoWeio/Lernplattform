@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+	<meta charset="UTF-8">
+	<title>Vokabeln - Präpositionen</title>
+
+	<link rel="stylesheet" href="../style.css">
+
+	<script src="https://code.jquery.com/jquery-3.2.1.min.js" integrity="sha256-hwg4gsxgFZhOsEEamdOYGBf13FyQuiTwlAQgxVSNgt4=" crossorigin="anonymous"></script>
+	
+	<script src="../../JavaScript/general.js" type="text/javascript"></script>
+	<script src="../../Spanisch/res.js" type="text/javascript"></script>
+	<script src="../server.js" type="text/javascript"></script>
+	<script src="../check.js" type="text/javascript"></script>
+
+	<script src="praepositionen.js" type="text/javascript"></script>
+	
+</head>
+
+<body onload="onLoad()"> <!-- onkeyup="if (event.keyCode == 13) onEnter();" -> schon im JS -->
+	<div id="namer">
+		<h2 id="abfrage">Lade...</h2>
+		<h3 class="topcorner" id="success_rate_display"></h3>
+		<input id="hint" type="text" class="noselect" ondblclick="editHint()" onblur="if (!this.readOnly) editHintFinish();" value="Lade..." readonly="true">
+		<div id="namer-input">
+			<input type="text" placeholder="Eingabe" id="eingabe" autofocus/> <!-- onenter="test()" -->
+		</div>
+		<div class="namer-controls noselect" id="button-box">
+			<div><span onclick="test()" id="submit_button">Okay</span></div>
+			<div><span onclick="reveal(true)" id="reveal_button">Lösung</span></div>
+			<div><span onclick="revealPart()" id="reveal_part_button">Aufdecken</span></div>
+		</div>
+	</div>
+	
+	<div id="sidebar">
+		<a href="Auswahl">Kurs/Lektion auswählen</a>
+	</div>
+	
+	<!--<footer>
+  <p>&copy; Nicolai Weitkemper</p>
+  <p>Kontakt: <a href="lernen@nicolaiweitkemper.de">lernen@nicolaiweitkemper.de</a></p>
+</footer>-->
+	
+</body>
+</html>

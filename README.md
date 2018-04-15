@@ -1,0 +1,2 @@
+# Lernplattform
+Alle Rechte vorbehalten :)
