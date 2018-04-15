@@ -19,27 +19,7 @@ $currentVok = null;
 
     $single_user_data = $userRaw["data"][$courseName][$lektion][$vok["spa"]];
     
-    
-    if (!isset($single_user_data["phase"])) {
-      
-      //echo json_encode($vok);
-      //echo "TESTKACK!!!";
-      
-      
-      //$x2 = $vok["spa"];
-      //echo $x2;
-      //$test = $userRaw["data"][$courseName][$lektion][$x2];
-      $vok["debug"] = "single_user_data leer";
-      $vok["userdata"]["success_rate"] = 0;
-			$vok["tts-language"] = $courseRaw["meta"]["tts-language"];
-      echo json_encode($vok);
-      
-      die();
-      
-    }
-    
-    else {
-
+		if (!isset($single_user_data["phase"])) $single_user_data["phase"] = 0;
       
       if (($single_user_data["phase"] < $minimumPhase) && $vok["spa"] != $_GET["last"]) {
         $currentVok = $vok;
@@ -48,12 +28,7 @@ $currentVok = null;
 									//TODO ineffizient as hell??
       }
       
-    }      
-    
-   
-    
   }
-
 
 
 $currentVok["userdata"]["success_rate"] = $minimumPhase;
