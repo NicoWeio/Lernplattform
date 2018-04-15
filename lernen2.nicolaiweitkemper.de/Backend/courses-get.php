@@ -16,9 +16,11 @@ $output = [];
 
 foreach ($files as $singleFile) {
   $id = explode(".",$singleFile)[0];
+  $meta = json_decode(file_get_contents("Ressourcen/".$singleFile), true)["meta"];
   $single = [];
   $single["id"] = $id;
-  $single["title"] = json_decode(file_get_contents("Ressourcen/".$singleFile), true)["meta"]["title"];
+  $single["title"] = $meta["title"];
+  $single["language"] = $meta["language"];
   array_push($output, $single);
 }
 
