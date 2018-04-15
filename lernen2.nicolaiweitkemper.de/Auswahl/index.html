@@ -24,6 +24,8 @@
       
       
       
+      var courses;
+      var languages;
       
       var course = document.getElementById("course-select").value;
       
@@ -68,6 +70,7 @@
         }*/
             
       document.getElementById("course-select").innerHTML = "";
+      document.getElementById("language-select").innerHTML = "";
       
       
       
@@ -75,10 +78,11 @@
           httpGet("https://lernen2.nicolaiweitkemper.de/Backend/courses-get.php",
            function(result) { 
       
-            var courses = JSON.parse(result);
+            courses = JSON.parse(result);
             
             
-            var select = document.getElementById("course-select");
+            var courseSelect = document.getElementById("course-select");
+            var languageSelect = document.getElementById("language-select");
             
             /*var customSort = function (a, b) {
               return (Number(a.match(/(\d+)/g)[0]) - Number((b.match(/(\d+)/g)[0])));
@@ -86,12 +90,27 @@
             
             courses.sort(customSort);*/
             
+            languages = [];
+            
             courses.forEach(function(single) {
               
               var option = document.createElement("option");
               option.value = single["id"];
               option.text = single["title"];
-              select.add(option);
+              courseSelect.add(option);
+              
+              if (!languages.includes(single["language"])) languages.push(single["language"]);
+              
+            });
+            
+            languageSelect.innerHTML = '<option value="0">--- alle ---</option>';
+            
+            languages.forEach(function(single) {
+              
+              var option = document.createElement("option");
+              option.value = single;
+              option.text = single;
+              languageSelect.add(option);
               
             });
             
@@ -100,6 +119,28 @@
             loadLevels();
       
         });
+    }
+    
+    function updateCourses() {
+      
+      document.getElementById("course-select").innerHTML = "";
+      
+      var courseSelect = document.getElementById("course-select");
+      var language = document.getElementById("language-select").value;
+
+      courses.forEach(function(single) {
+
+        if (single["language"] == language || language == "0") {
+          var option = document.createElement("option");
+          option.value = single["id"];
+          option.text = single["title"];
+          courseSelect.add(option);
+        }
+
+      });
+      
+      loadLevels();
+
     }
     
   </script>
@@ -119,18 +160,25 @@
   <form action="../">
     <div id="options-container">
       <div class="option">
+        <p>Sprache: </p>
+        <select name="language" id="language-select" onchange="updateCourses()">
+          <option value="0">--- alle ---</option>
+        </select>
+      </div>
+      <div class="option">
         <p>Kurs: </p>
         <select name="course" id="course-select" onchange="loadLevels()" disabled>
-    <option>Lade...</option>
-      </select>
+          <option>Lade...</option>
+        </select>
       </div>
       <div class="option">
         <p>Level: </p>
-        <select id="level-select" name="level" disabled>
-        <option>Lade...</option>
+        <select name="level" id="level-select" disabled>
+          <option>Lade...</option>
         </select>
       </div>
-      <div class="option"><input type="submit" value="Öffnen"></div>
+      <div class="option">
+        <input type="submit" value="Öffnen"></div>
     </div>
   </form>
 
