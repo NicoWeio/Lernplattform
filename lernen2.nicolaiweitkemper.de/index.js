@@ -22,6 +22,8 @@ var currentVok; //TODO current/-Q weglassen und mit Attributen des gesamt-Vok er
   var course;
   var level;
 
+	var ttsEnabled = true;
+
 
   function test() {
 
@@ -164,8 +166,9 @@ var currentVok; //TODO current/-Q weglassen und mit Attributen des gesamt-Vok er
   		//dann:
   		//window.location = "login.html"; //TODO testen
 
-  		preferences = JSON.parse(result); //result hat nur die preferences der Userdata-JSON-Datei!
-  		checkSettings = JSON.parse(result).checkSettings;
+  		preferences =  JSON.parse(result); //result hat nur die preferences der Userdata-JSON-Datei!
+  		checkSettings = preferences.checkSettings;
+			//ttsEnabled = preferences.clientSettings.tts.enabled //TODO einführen?
   		newVok();
 
   	});
@@ -206,8 +209,13 @@ var currentVok; //TODO current/-Q weglassen und mit Attributen des gesamt-Vok er
   }
 
   function tts(onEnded) {
-  	ttsAudio.play();
-  	ttsAudio.onended = onEnded;
+		if (ttsEnabled) {
+  		ttsAudio.play();
+  		ttsAudio.onended = onEnded;
+		}
+		else {
+			setTimeout(onEnded,700);
+		}
   }
 
   function editHint() {
@@ -299,4 +307,10 @@ function onEnter() {
 	}
 	else if (revealed) newVok();
 	else test();
+}
+
+function toggleTTS() {
+	ttsEnabled = !ttsEnabled;
+	$("#toggle-tts").html("Sprachausgabe " + (ttsEnabled ? "ausschalten" : "einschalten"));
+	$("#eingabe").focus();
 }
