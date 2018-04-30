@@ -147,10 +147,9 @@ var currentVok; //TODO current/-Q weglassen und mit Attributen des gesamt-Vok er
 
   	username = getCookie("Lernplattform-Login");
 
-
-  	var url = new URL(window.location.href);
-  	var URLcourse = url.searchParams.get("course");
-  	var URLlevel = url.searchParams.get("level");
+    var path = window.location.pathname.split("/");
+    var URLcourse = decodeURIComponent(path[1]);
+  	var URLlevel = decodeURIComponent(path[2]);
 
   	if (URLcourse === null) window.location.href = "/Auswahl";
   	if (!username) window.location.href = "/Login";
