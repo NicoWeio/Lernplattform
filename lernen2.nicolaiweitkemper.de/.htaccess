@@ -3,3 +3,9 @@
 # Header add Access-Control-Allow-Origin "http://lernen2.nicolaiweitkemper.de"
 # Header add Access-Control-Allow-Headers "origin, x-requested-with, content-type"
 # Header add Access-Control-Allow-Methods "PUT, GET, POST, DELETE, OPTIONS"
+# Options +FollowSymLinks
+
+RewriteEngine On
+RewriteCond %{REQUEST_URI} ^(.*)/(.*)$
+RewriteCond %{REQUEST_URI} !/(.*)\.(.*)$
+RewriteRule ^(.*)/(.*)$ ?course=$1&level=$2 [QSA,L]
