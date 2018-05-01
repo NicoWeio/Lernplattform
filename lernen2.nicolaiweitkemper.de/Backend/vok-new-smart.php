@@ -32,7 +32,8 @@ $currentVok = null;
 
 
 $currentVok["userdata"]["success_rate"] = $minimumPhase;
-$currentVok["tts-language"] = $courseRaw["meta"]["tts-language"];
+//$currentVok["tts-language"] = $courseRaw["meta"]["tts-language"];
+$currentVok["meta"] = $courseRaw["meta"];
 echo json_encode($currentVok);
 
 ?>
