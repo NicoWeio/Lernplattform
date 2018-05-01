@@ -15,10 +15,6 @@
 
 var currentVok; //TODO current/-Q weglassen und mit Attributen des gesamt-Vok ersetzen
 
-  //var level = "21 Unidad 6 ¡Bienvenidos a México! - ¡Vamos!";
-  //var course = "spanisch-2";
-  //var level = "22 Unidad 6 ¡Bienvenidos a México! - Paso 1";
-
   var course;
   var level;
 
@@ -184,10 +180,10 @@ var currentVok; //TODO current/-Q weglassen und mit Attributen des gesamt-Vok er
   function ttsPrepare() {
 
   	var text = current;
-		var language = currentVok["tts-language"] || "es";
+		var language = currentVok.meta["language-code"] || "es";
 
-  	for (var key in preferences.clientSettings.tts.customReplacementsRegEx) {
-  		text = text.replace(new RegExp(key), preferences.clientSettings.tts.customReplacementsRegEx[key]);
+  	for (var key in currentVok.meta.tts.replacementsRegEx) {
+  		text = text.replace(new RegExp(key), currentVok.meta.tts.replacementsRegEx[key]);
   	}
 
   	if (!ttsAudioCache[text]) {
