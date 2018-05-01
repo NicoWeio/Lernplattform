@@ -1,7 +1,16 @@
 {
   "meta": {
     "language": "Spanisch",
-    "tts-language": "es",
+    "tts": {
+      "language-code": "es",
+      "replacementsRegEx": {
+          "(\\\/-?[as])+": "",
+          "(\\s|)\\[\\.\\.\\.\\](\\s|)": " ",
+          "\/^(el|la|los|las)\\s\/ig": "",
+          "\\\/la": "",
+          "a\\\/c": "alguna cosa"
+        }
+    },
     "title": "Spanisch Q1"
   },
   "data": {
