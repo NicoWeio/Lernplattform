@@ -1,44 +1,29 @@
 <?php
 
-//$username = "nicolai";
 $username = $_GET["username"];
-
-//$lektion = "21 Unidad 6 ¡Bienvenidos a México! - ¡Vamos!";
 $lektion = $_GET["level"];
 
 $json = json_decode(file_get_contents("Userdata/".$username.".json"), true);
 
-if (isset($json["data"][$_GET["course"]][$_GET["level"]][$_GET["spa"]])) {
+$vok = $json["data"][$_GET["course"]][$_GET["level"]][$_GET["spa"]];
 
-  $json["data"][$_GET["course"]][$_GET["level"]][$_GET["spa"]]["total"]++;
-  if ($_GET["correct"] == "true") $json["data"][$_GET["course"]][$_GET["level"]][$_GET["spa"]]["successful"]++;
-  else {
-    if (isset($json["data"][$_GET["course"]][$_GET["level"]][$_GET["spa"]]["errors"][$_GET["input"]])) $json["data"][$_GET["course"]][$_GET["level"]][$_GET["spa"]]["errors"][$_GET["input"]]++;
-    else $json["data"][$_GET["course"]][$_GET["level"]][$_GET["spa"]]["errors"][$_GET["input"]] = 1;
-  }
+incrementOr($vok["total"]);
 
+if ($_GET["correct"] == "true") {
+  incrementOr($vok["successful"]);
+  incrementOr($vok["lauf"]);
 }
 else {
-
-$json["data"][$_GET["course"]][$_GET["level"]][$_GET["spa"]]["total"] = 1;
-$json["data"][$_GET["course"]][$_GET["level"]][$_GET["spa"]]["successful"] = ($_GET["correct"] == true) ? 1 : 0;
-
-//vllt. unnötig
-//$json["data"][$_GET["course"]][$_GET["level"]][$_GET["spa"]]["errors"] = array();
-
+  $vok["lauf"] = 0;
+  incrementOr($vok["errors"][$_GET["input"]]);
 }
 
-if (!isset($json["data"][$_GET["course"]][$_GET["level"]][$_GET["spa"]]["lauf"])) $json["data"][$_GET["course"]][$_GET["level"]][$_GET["spa"]]["lauf"] = ($_GET["correct"] == "true") ? 1 : 0;
+$absPhase = ($vok["phase"] ?? 0) + ($_GET["correct"] == "true" ? 1 : -1);
+$vok["phase"] = $absPhase > -1 ? $absPhase : -1;
 
-if ($_GET["correct"] == "true") $json["data"][$_GET["course"]][$_GET["level"]][$_GET["spa"]]["lauf"]++;
-else $json["data"][$_GET["course"]][$_GET["level"]][$_GET["spa"]]["lauf"] = 0;
+//-------
 
-
-//Phase:
-if (!isset($json["data"][$_GET["course"]][$_GET["level"]][$_GET["spa"]]["phase"])) $json["data"][$_GET["course"]][$_GET["level"]][$_GET["spa"]]["phase"] = ($_GET["correct"] == "true") ? 1 : 0;
-$json["data"][$_GET["course"]][$_GET["level"]][$_GET["spa"]]["phase"] += ($_GET["correct"] == "true") ? 1 : ($json["data"][$_GET["course"]][$_GET["level"]][$_GET["spa"]]["phase"] > -2 ? -1 : 0);
-
-
+$json["data"][$_GET["course"]][$_GET["level"]][$_GET["spa"]] = $vok;
 
 $log = fopen("../log.txt", "a");
   
@@ -55,6 +40,12 @@ fclose($log);
 
 //var_dump($json);
 //echo $output;
-echo "okay";
+echo json_encode($vok);
+//echo "okay";
 
-//?>
+function incrementOr(&$val, $default) {
+  $default = $default ?? 0;
+  $val = ($val ?? $default) + 1;
+}
+
+?>
